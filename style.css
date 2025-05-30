@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #0d6efd;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s;
+}
+
+footer {
+  color: #6c757d;
+}
